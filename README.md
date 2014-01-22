@@ -1,0 +1,4 @@
+JCrop
+=====
+
+JCrop - Cortar imagem
